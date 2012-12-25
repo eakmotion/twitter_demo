@@ -1,0 +1,9 @@
+--- Welcome to EAKsocial --
+
+Demo twitter web app
+
+Demonstrate how to use
+- Twitter bootstrap
+- Devise
+- Jquery in rails project
+- and more.
